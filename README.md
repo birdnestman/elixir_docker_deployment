@@ -1,6 +1,8 @@
 # elixir_docker_deployment
 Docker container for Elixir deployment with rsync.
 
+Published on Docker Hub.
+
 ## Start the container
 
 ```
